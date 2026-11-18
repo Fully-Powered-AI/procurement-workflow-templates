@@ -1,8 +1,10 @@
-# Fully Powered Workflow Templates: Procurement and Suppliers
+# FullyPowered Workflow Templates: Procurement and Suppliers
 
 Every buying decision made with the whole picture on one page. These workflow templates take the comparing and reviewing behind a purchase or a renewal and give an AI assistant a precise way to prepare it. A person chooses, and contract terms go to whoever reviews contracts.
 
 This repository holds 10 workflow templates for owners, office managers, buyers and operations leads. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+
+These templates are examples and a starting point, not a complete list of what a team can do. FullyPowered AI can build any workflow for your company, including one that runs several steps, in a [Workflow Sprint or a scoped implementation](https://fullypowered.ai/pricing/).
 
 ## The workflow templates
 
@@ -35,10 +37,10 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [Fully Powered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
 For the work these templates come from, by team and by task, see [AI workflow examples for procurement teams](https://fullypowered.ai/functions/procurement-and-suppliers/).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [Fully Powered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/).

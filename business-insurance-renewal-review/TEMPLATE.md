@@ -307,4 +307,4 @@ return the pack.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026; the trial record is published with it. The run covered the ordinary case and did not reach the refusal and stop cases. Small edits made to the procedure, the pasted instructions, the output format and the example after an independent review have not been run again; the trial record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026; the trial record is published with it. The run covered the ordinary case and did not reach the refusal and stop cases. Small edits made to the procedure, the pasted instructions, the output format and the example after an independent review have not been run again; the trial record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

@@ -69,11 +69,11 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. This version was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it; the record says that the run was made by the model that revised the template, lists two small wording fixes made during the run and checked against its output, and lists the small edits made after an independent review, which were checked against the recorded output but not run again. An earlier run of the first draft, the same day, found the gaps this version fixes. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. This version was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it; the record says that the run was made by the model that revised the template, lists two small wording fixes made during the run and checked against its output, and lists the small edits made after an independent review, which were checked against the recorded output but not run again. An earlier run of the first draft, the same day, found the gaps this version fixes. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on one or two categories your buyer knows well, with hard cases written in advance: an export whose headers do not match, a row whose amount does not equal quantity times price, an item only one supplier can make, a notice date that falls before the plan starts. The buyer checks every figure and date against the export and the supplier facts before anyone relies on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -104,4 +104,4 @@ Testing in your environment means running it on one or two categories your buyer
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

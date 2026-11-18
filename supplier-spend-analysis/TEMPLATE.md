@@ -310,4 +310,4 @@ Recompute every figure before you return the analysis.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026, by a model given only this template and the example's inputs; the record is published with the template and lists the small edits made afterward that have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026, by a model given only this template and the example's inputs; the record is published with the template and lists the small edits made afterward that have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
