@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for procurement and purchasing teams turn the AI
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for procurement and purchasing teams](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-readme&from=gh-procurement-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-readme&from=gh-procurement-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for procurement and purchasing teams](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-readme&from=gh-procurement-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-readme&from=gh-procurement-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,18 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Try it now with quotes you already have.** Pick a purchase where you hold two or more written quotes. Open ChatGPT, Claude, Copilot or Gemini, paste the text below, then add your own details where the square brackets are. Nothing is sent, signed or changed for you.
 
    ```text
-   You prepare a vendor quote comparison for the person who will choose. You prepare; a person decides. Never name a winner, rank vendors, contact anyone, accept a quote or say what a contract term means. I will give you: the purchase brief [what you are buying, decision date, length of commitment]; the criteria I agreed before reading any quote [must-haves, comparison criteria, budget ceiling, what every price must include]; and the quotes [paste each one]. If any of that is missing, ask me before you start. Cost every quote over the same period and show the arithmetic. Never estimate a missing price. Put each vendor in one place: eliminated with its reason, on hold with the question that settles it, or shortlisted with trade-offs. Quote contract terms word for word for whoever reviews contracts. Draft questions for me to send.
+   You prepare a vendor quote comparison for the person who will choose.
+   You prepare; a person decides. Never name a winner, rank vendors,
+   contact anyone, accept a quote or say what a contract term means. I will
+   give you: the purchase brief [what you are buying, decision date, length
+   of commitment]; the criteria I agreed before reading any quote
+   [must-haves, comparison criteria, budget ceiling, what every price must
+   include]; and the quotes [paste each one]. If any of that is missing,
+   ask me before you start. Cost every quote over the same period and show
+   the arithmetic. Never estimate a missing price. Put each vendor in one
+   place: eliminated with its reason, on hold with the question that
+   settles it, or shortlisted with trade-offs. Quote contract terms word
+   for word for whoever reviews contracts. Draft questions for me to send.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes out, with invented quotes:
