@@ -1,10 +1,17 @@
 # Supplier risk alert brief
 
-When something happens to a supplier you depend on, the buyer gets a dated brief the same day: what happened and who reported it when, what you buy from them, how many days of stock you hold against how long another source would take, how exposed you are, and actions with owners and dates.
+Turn news about a supplier into a dated brief: days of stock against time to another source, exposure per item and actions with owners. A person decides.
 
-*Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-risk-alert-brief/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Supplier risk alert brief on our website](https://fullypowered.ai/workflows/supplier-risk-alert-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-risk-alert-brief&from=gh-procurement-supplier-risk-alert-brief) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/supplier-risk-alert-brief/?from=gh-procurement-supplier-risk-alert-brief)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-risk-alert-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-risk-alert-brief&from=gh-procurement-supplier-risk-alert-brief)*
 
 ## The outcome
 
@@ -49,14 +56,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/), which owns the supplier relationship and the search for another source.
-- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/), which holds the stock figures and the production plan the brief depends on.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where one supplier's stopped line can stop yours within weeks.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where a single packaging or component supplier often sits behind a best-selling product.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where a supplier's trouble shows up as empty shelves and late orders.
-- [Construction](https://fullypowered.ai/industries/construction/), where a materials supplier's problem moves a whole project's dates.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where long-standing suppliers have never had their exposure written down.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), where more products depend on more suppliers than anyone can keep in their head.
+- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-risk-alert-brief&from=gh-procurement-supplier-risk-alert-brief), which owns the supplier relationship and the search for another source.
+- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-risk-alert-brief&from=gh-procurement-supplier-risk-alert-brief), which holds the stock figures and the production plan the brief depends on.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-risk-alert-brief&from=gh-procurement-supplier-risk-alert-brief), where one supplier's stopped line can stop yours within weeks.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-risk-alert-brief&from=gh-procurement-supplier-risk-alert-brief), where a single packaging or component supplier often sits behind a best-selling product.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-risk-alert-brief&from=gh-procurement-supplier-risk-alert-brief), where a supplier's trouble shows up as empty shelves and late orders.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-risk-alert-brief&from=gh-procurement-supplier-risk-alert-brief), where a materials supplier's problem moves a whole project's dates.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-risk-alert-brief&from=gh-procurement-supplier-risk-alert-brief), where long-standing suppliers have never had their exposure written down.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-risk-alert-brief&from=gh-procurement-supplier-risk-alert-brief), where more products depend on more suppliers than anyone can keep in their head.
 
 ## What has to change for your company
 
@@ -73,7 +80,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template in its own words, drawing on a published supplier risk method credited with it. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs; the record of the second, made on the current wording, is published with it. That record says plainly that the second run was made by the model that revised the template after the first, so it was not blind to the published example. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past supplier scares your team remembers, with hard cases written in advance: a news report the supplier never confirmed, a supplier's promise that later slipped, an item with no known time to another source, an export whose headers do not match, a problem at the supplier's own supplier. The procurement lead checks every figure and date against the export before anyone acts on the brief. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past supplier scares your team remembers, with hard cases written in advance: a news report the supplier never confirmed, a supplier's promise that later slipped, an item with no known time to another source, an export whose headers do not match, a problem at the supplier's own supplier. The procurement lead checks every figure and date against the export before anyone acts on the brief. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-risk-alert-brief&from=gh-procurement-supplier-risk-alert-brief) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-risk-alert-brief&from=gh-procurement-supplier-risk-alert-brief) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -101,9 +108,9 @@ Testing in your environment means running it on two or three past supplier scare
 ## Related workflow templates
 
 - [Supplier issue notice](../supplier-issue-notice/)
-- [Inventory reorder plan](https://fullypowered.ai/workflows/inventory-reorder-plan/)
+- [Inventory reorder plan](https://fullypowered.ai/workflows/inventory-reorder-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-risk-alert-brief&from=gh-procurement-supplier-risk-alert-brief)
 - [Supplier spend analysis](../supplier-spend-analysis/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-risk-alert-brief&from=gh-procurement-supplier-risk-alert-brief).

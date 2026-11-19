@@ -1,10 +1,17 @@
 # Supplier issue notice
 
-When a supplier bills for more than was ordered or received, or falls short of an agreed delivery or quality target, the buyer gets a formal notice ready for approval: each problem set against the record, the evidence listed, what the supplier must do and the date to reply by. A person approves and sends it.
+Get a formal supplier notice ready for approval: each invoice or delivery problem set against the record, with evidence and a reply date. A person decides.
 
-*Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-issue-notice/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Supplier issue notice on our website](https://fullypowered.ai/workflows/supplier-issue-notice/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-issue-notice&from=gh-procurement-supplier-issue-notice) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/supplier-issue-notice/?from=gh-procurement-supplier-issue-notice)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-issue-notice/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-issue-notice&from=gh-procurement-supplier-issue-notice)*
 
 ## The outcome
 
@@ -16,7 +23,7 @@ The tone is calm and factual: no blame, no threats, no claims about what the con
 
 ## Who starts the work, and when
 
-The buyer, the purchasing lead or the accounts-payable lead starts it when an invoice has been held for a difference against its order or its delivery, often straight from the exceptions that [supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/) finds. It is also started at the end of a month or quarter when a supplier's on-time delivery or rejection rate has fallen below the target it agreed.
+The buyer, the purchasing lead or the accounts-payable lead starts it when an invoice has been held for a difference against its order or its delivery, often straight from the exceptions that [supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-issue-notice&from=gh-procurement-supplier-issue-notice) finds. It is also started at the end of a month or quarter when a supplier's on-time delivery or rejection rate has fallen below the target it agreed.
 
 Whoever your rules name approves the notice before it goes: often the purchasing manager for an invoice dispute, and the head of purchasing or operations for a corrective-action request.
 
@@ -45,15 +52,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/), which owns the order, the agreed price and the supplier relationship.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), where the accounts-payable lead holds an invoice until its differences are settled.
-- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/), where late or rejected deliveries hold up the work that depends on them.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where parts and materials are billed by the line and short deliveries are routine.
-- [Construction](https://fullypowered.ai/industries/construction/), where materials arrive in part loads at a site and the invoice arrives whole.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where food, linen and supplies arrive several times a week and a supplier's reliability shows quickly.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where stock arrives in part shipments and a late delivery means empty shelves.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where supplier problems have been handled by phone and nobody can find what was agreed.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), where more suppliers and more orders mean problems need a standard written record.
+- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-issue-notice&from=gh-procurement-supplier-issue-notice), which owns the order, the agreed price and the supplier relationship.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-issue-notice&from=gh-procurement-supplier-issue-notice), where the accounts-payable lead holds an invoice until its differences are settled.
+- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-issue-notice&from=gh-procurement-supplier-issue-notice), where late or rejected deliveries hold up the work that depends on them.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-issue-notice&from=gh-procurement-supplier-issue-notice), where parts and materials are billed by the line and short deliveries are routine.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-issue-notice&from=gh-procurement-supplier-issue-notice), where materials arrive in part loads at a site and the invoice arrives whole.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-issue-notice&from=gh-procurement-supplier-issue-notice), where food, linen and supplies arrive several times a week and a supplier's reliability shows quickly.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-issue-notice&from=gh-procurement-supplier-issue-notice), where stock arrives in part shipments and a late delivery means empty shelves.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-issue-notice&from=gh-procurement-supplier-issue-notice), where supplier problems have been handled by phone and nobody can find what was agreed.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-issue-notice&from=gh-procurement-supplier-issue-notice), where more suppliers and more orders mean problems need a standard written record.
 
 ## What has to change for your company
 
@@ -69,7 +76,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and lists the small edits made afterward that have not been run again. Only the invoice-dispute path was exercised: the corrective-action path, the stop conditions and the refusals were not tried. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past supplier problems your team remembers, with hard cases written in advance: a line both priced above the order and short-delivered, a charge that is not on the order, an export whose headers do not match, a supplier whose result in fact met its target, an invoice asking for payment to new bank details. The person who approves checks every figure against the documents before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past supplier problems your team remembers, with hard cases written in advance: a line both priced above the order and short-delivered, a charge that is not on the order, an export whose headers do not match, a supplier whose result in fact met its target, an invoice asking for payment to new bank details. The person who approves checks every figure against the documents before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-issue-notice&from=gh-procurement-supplier-issue-notice) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-issue-notice&from=gh-procurement-supplier-issue-notice) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -96,10 +103,10 @@ Testing in your environment means running it on two or three past supplier probl
 
 ## Related workflow templates
 
-- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/)
+- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-issue-notice&from=gh-procurement-supplier-issue-notice)
 - [Vendor quote comparison](../vendor-quote-comparison/)
 - [Vendor renewal review](../vendor-renewal-review/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-issue-notice&from=gh-procurement-supplier-issue-notice).

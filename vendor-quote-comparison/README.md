@@ -1,10 +1,17 @@
 # Vendor quote comparison
 
-Before anyone signs, the person choosing a vendor gets one sheet: the criteria agreed first, every quote costed the same way, and each vendor eliminated with its reason, on hold with the question that settles it, or shortlisted with its trade-offs. A person chooses; contract terms go to your reviewer.
+Agree the criteria first, cost every quote the same way and see each vendor eliminated, on hold or shortlisted. A person chooses; a reviewer reads terms.
 
-*Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/vendor-quote-comparison/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Vendor quote comparison on our website](https://fullypowered.ai/workflows/vendor-quote-comparison/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-vendor-quote-comparison&from=gh-procurement-vendor-quote-comparison) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/vendor-quote-comparison/?from=gh-procurement-vendor-quote-comparison)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/vendor-quote-comparison/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-vendor-quote-comparison&from=gh-procurement-vendor-quote-comparison)*
 
 ## The outcome
 
@@ -48,12 +55,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/), which owns choosing vendors and keeping the record of why.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where an office manager buys cleaning, IT support and equipment with no purchasing team.
-- [Construction](https://fullypowered.ai/industries/construction/), where subcontractor and equipment-hire quotes arrive in different shapes and have to be read on one basis.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where a supplier of a regular material or a maintenance contract is chosen on price, lead time and service together.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where linen, waste, pest-control and food-supply contracts come up for choice every year.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where purchases have been chosen on habit and a written reason makes the next choice easier.
+- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-vendor-quote-comparison&from=gh-procurement-vendor-quote-comparison), which owns choosing vendors and keeping the record of why.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-vendor-quote-comparison&from=gh-procurement-vendor-quote-comparison), where an office manager buys cleaning, IT support and equipment with no purchasing team.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-vendor-quote-comparison&from=gh-procurement-vendor-quote-comparison), where subcontractor and equipment-hire quotes arrive in different shapes and have to be read on one basis.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-vendor-quote-comparison&from=gh-procurement-vendor-quote-comparison), where a supplier of a regular material or a maintenance contract is chosen on price, lead time and service together.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-vendor-quote-comparison&from=gh-procurement-vendor-quote-comparison), where linen, waste, pest-control and food-supply contracts come up for choice every year.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-vendor-quote-comparison&from=gh-procurement-vendor-quote-comparison), where purchases have been chosen on habit and a written reason makes the next choice easier.
 
 ## What has to change for your company
 
@@ -68,7 +75,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026, and the record of that run is published with the template; it lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past purchases your team remembers, with hard cases written in advance: a quote silent on a must-have, a price rise halfway through the year, an extra priced separately, a promise made only on a call. The person who chooses checks every figure against the quotes before anyone relies on the sheet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past purchases your team remembers, with hard cases written in advance: a quote silent on a must-have, a price rise halfway through the year, an extra priced separately, a promise made only on a call. The person who chooses checks every figure against the quotes before anyone relies on the sheet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-vendor-quote-comparison&from=gh-procurement-vendor-quote-comparison) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-vendor-quote-comparison&from=gh-procurement-vendor-quote-comparison) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -95,10 +102,10 @@ Testing in your environment means running it on two or three past purchases your
 
 ## Related workflow templates
 
-- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-vendor-quote-comparison&from=gh-procurement-vendor-quote-comparison)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-vendor-quote-comparison&from=gh-procurement-vendor-quote-comparison)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-vendor-quote-comparison&from=gh-procurement-vendor-quote-comparison)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-vendor-quote-comparison&from=gh-procurement-vendor-quote-comparison).

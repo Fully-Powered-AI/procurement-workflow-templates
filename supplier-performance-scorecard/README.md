@@ -1,10 +1,17 @@
 # Supplier performance scorecard
 
-Once a quarter, the buyer or operations lead scores each key supplier from the business's own order and receiving exports: on-time delivery, fill rate, defects and returns, price against agreed terms and order confirmations, with the trend, the evidence behind every score and the points to raise. A person decides.
+Score each key supplier every quarter from your own order and receiving exports, with trend, evidence and points to raise. A person decides.
 
-*Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-performance-scorecard/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Supplier performance scorecard on our website](https://fullypowered.ai/workflows/supplier-performance-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-performance-scorecard&from=gh-supplier-performance-scorecard) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/supplier-performance-scorecard/?from=gh-supplier-performance-scorecard)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-performance-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-performance-scorecard&from=gh-supplier-performance-scorecard)*
 
 ## The outcome
 
@@ -39,19 +46,19 @@ One scorecard, in a fixed order:
 4. **Decisions** for whoever decides, each with its facts.
 5. **What was not supplied or checked,** starting with the plain statement that no contract or invoice was read.
 
-The points to raise can go on to a [supplier issue notice](https://fullypowered.ai/workflows/supplier-issue-notice/) when a person decides a supplier should be told formally.
+The points to raise can go on to a [supplier issue notice](https://fullypowered.ai/workflows/supplier-issue-notice/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-performance-scorecard&from=gh-supplier-performance-scorecard) when a person decides a supplier should be told formally.
 
 See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/), which chooses suppliers and holds them to what was agreed.
-- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/), which feels every late or short delivery on the shelf and the production line.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where one late component or a batch of rejects stops a line.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where stock that arrives late or short becomes lost sales and unhappy customers.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where packaging and ingredients come from a few specialist suppliers that are hard to replace.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where supplier relationships run on habit and memory and deserve a quarterly look at the facts.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when order volumes rise and a supplier's slips start to cost real money.
+- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-performance-scorecard&from=gh-supplier-performance-scorecard), which chooses suppliers and holds them to what was agreed.
+- [Supply chain and inventory](https://fullypowered.ai/functions/supply-chain-and-inventory/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-performance-scorecard&from=gh-supplier-performance-scorecard), which feels every late or short delivery on the shelf and the production line.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-performance-scorecard&from=gh-supplier-performance-scorecard), where one late component or a batch of rejects stops a line.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-performance-scorecard&from=gh-supplier-performance-scorecard), where stock that arrives late or short becomes lost sales and unhappy customers.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-performance-scorecard&from=gh-supplier-performance-scorecard), where packaging and ingredients come from a few specialist suppliers that are hard to replace.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-performance-scorecard&from=gh-supplier-performance-scorecard), where supplier relationships run on habit and memory and deserve a quarterly look at the facts.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-performance-scorecard&from=gh-supplier-performance-scorecard), when order volumes rise and a supplier's slips start to cost real money.
 
 ## What has to change for your company
 
@@ -61,7 +68,7 @@ Map the column headers of your purchasing system's exports, and check that rejec
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The points that run found open were settled the same day, after an independent review, without a rerun; the record lists them and says where the recorded output differs from the rules as they now stand. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past quarter your buyer knows well, with hard cases written in advance: an export whose headers do not match, a delivery that came in parts, a line with nothing received, a line priced above the agreed price, a supplier with too few orders to score, and a sole source with a small spend. The runner checks every figure against the exports before anyone relies on the scorecard. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past quarter your buyer knows well, with hard cases written in advance: an export whose headers do not match, a delivery that came in parts, a line with nothing received, a line priced above the agreed price, a supplier with too few orders to score, and a sole source with a small spend. The runner checks every figure against the exports before anyone relies on the scorecard. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-performance-scorecard&from=gh-supplier-performance-scorecard) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-performance-scorecard&from=gh-supplier-performance-scorecard) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -94,4 +101,4 @@ Testing in your environment means running it on a past quarter your buyer knows 
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-performance-scorecard&from=gh-supplier-performance-scorecard).

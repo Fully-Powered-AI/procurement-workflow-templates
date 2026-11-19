@@ -1,14 +1,57 @@
-# FullyPowered Workflow Templates: Procurement and Suppliers
+# AI workflow templates for procurement and purchasing
 
-Every buying decision made with the whole picture on one page. These workflow templates take the comparing and reviewing behind a purchase or a renewal and give an AI assistant a precise way to prepare it. A person chooses, and contract terms go to whoever reviews contracts.
+FullyPowered Workflow Templates for procurement and purchasing teams turn the AI your company already pays for into a team that knows how the work is done: a buyer with every supplier scored from the business's own order and receiving records, an operations lead with the vendor renewal laid out ahead of the notice date, a finance desk with the software subscriptions listed, costed and flagged for review. 10 workflow templates, made to be customized and deployed. All plain Markdown, all free, MIT license.
 
-**These are templates, made to be customized and deployed.** They are examples and a starting point, not a complete list: copy one, change it to fit how your team does the work, and run it in the AI you already pay for.
+We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
-**FullyPowered AI customizes and builds AI workflows that run in ChatGPT, Claude, Copilot and Gemini**, including ones that run several steps. [More examples for procurement teams](https://fullypowered.ai/functions/procurement-and-suppliers/?from=gh-procurement) · [Have one built for your team](https://fullypowered.ai/pricing/?from=gh-procurement)
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for procurement and purchasing teams](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-readme&from=gh-procurement-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-readme&from=gh-procurement-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-This repository holds 10 workflow templates for owners, office managers, buyers and operations leads. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+**Who this is for**
 
-## The workflow templates
+- Owners and office managers who want purchasing and supplier decisions made with the full picture in front of them.
+- Buyers and operations leads who want a sourcing, quoting or renewal workflow their team can run this week.
+- The person who buys, who gets each pack prepared and still makes every supplier and contract decision.
+
+**What these are for**
+
+- **Your best way of doing it, for the whole team.** One piece of work, written down precisely enough that an assistant prepares it the same way every time.
+- **Work you can check.** Every template says what it needs, what it produces, what it checked and what it could not.
+- **A person decides.** Anything that sends, posts, pays or changes a record waits for someone to approve it.
+- **Tied into your business systems.** A workflow can be designed to pull from the systems your company already runs, and even push data back into them, with guardrails and a person approving. [Browse the Connectors Directory](https://fullypowered.ai/connectors/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-readme&from=gh-procurement-readme).
+- **Free, open and portable.** MIT-licensed plain instructions that run in the assistant or agent your team already uses: ChatGPT, Claude, Claude Code, Claude Cowork, Codex, Copilot, Gemini, Grok, Perplexity.
+
+**Quick start**
+
+1. **Try it now with quotes you already have.** Pick a purchase where you hold two or more written quotes. Open ChatGPT, Claude, Copilot or Gemini, paste the text below, then add your own details where the square brackets are. Nothing is sent, signed or changed for you.
+
+   ```text
+   You prepare a vendor quote comparison for the person who will choose. You prepare; a person decides. Never name a winner, rank vendors, contact anyone, accept a quote or say what a contract term means. I will give you: the purchase brief [what you are buying, decision date, length of commitment]; the criteria I agreed before reading any quote [must-haves, comparison criteria, budget ceiling, what every price must include]; and the quotes [paste each one]. If any of that is missing, ask me before you start. Cost every quote over the same period and show the arithmetic. Never estimate a missing price. Put each vendor in one place: eliminated with its reason, on hold with the question that settles it, or shortlisted with trade-offs. Quote contract terms word for word for whoever reviews contracts. Draft questions for me to send.
+   ```
+
+2. Read what comes back. It marks what it checked and what is left for you. What comes out, with invented quotes:
+
+   ```text
+   **Not counted**
+
+   - Vendor A: restrooms six days a week at no extra cost. Not in writing: in the notes of 5 November, not in the quote. Bears on C1.
+   - Vendor C: "Rated the region's top cleaner by our customers." Vendor's own claim, not checked. Bears on no criterion.
+   - Vendor E: "we're fully insured, no problem". Not in writing: in the notes of 6 November, not in the quote. Bears on M2.
+
+   **Round 1: must-haves**
+
+   - Eliminated: Vendor B, M1: "Our crews work 5:00 pm to 9:00 pm".
+   - On hold: Vendor E, M2: in the notes only; the quote does not state the cover.
+   - Passed: A, C, D, F.
+   ```
+
+3. Stop there. You will know if this is for you. When you want it fitted to your company, or built into your agents, [that is what we do](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-readme&from=gh-procurement-readme).
+
+A person starts each piece of work, supplies the inputs and decides; the template only prepares and checks, and contract terms go to whoever reviews contracts.
+
+These are samples and a starting point, made to be changed to fit how your company buys. Work that is not listed here can still be built, as one step or many.
+
+## The workflow templates here today
 
 - **[Business insurance renewal review](business-insurance-renewal-review/)**: Before the business insurance renews, the owner gets one pack: every policy with insurer, limits, deductibles, premium and dates; renewal terms beside expiring ones, every change marked; what changed in the business; claims; and questions for the broker. The broker and the owner decide all cover.
 - **[Category sourcing plan](category-sourcing-plan/)**: For the buyer or operations lead who owns one spend category, such as packaging or IT hardware: its spend and suppliers on one page, where it sits on a supply-risk and spend matrix, the value levers the evidence supports, and a dated sourcing plan. A person chooses the approach.
@@ -39,10 +82,10 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-readme&from=gh-procurement-readme) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
-For the work these templates come from, by team and by task, see [AI workflow examples for procurement teams](https://fullypowered.ai/functions/procurement-and-suppliers/).
+For the work these templates come from, by team and by task, see [AI workflow examples for procurement teams](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-readme&from=gh-procurement-readme).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-readme&from=gh-procurement-readme).

@@ -1,10 +1,17 @@
 # Supplier spend analysis
 
-From one accounts-payable export, the finance or operations lead sees where the money goes: spend cleaned and grouped by category and supplier, the few suppliers that take most of it, the tail, needs bought from several suppliers and consolidation opportunities, each with its figures. A person decides what to act on.
+See where the money goes from one accounts-payable export: spend by category and supplier, the tail and consolidation opportunities. A person decides.
 
-*Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-spend-analysis/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Supplier spend analysis on our website](https://fullypowered.ai/workflows/supplier-spend-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-spend-analysis&from=gh-procurement-supplier-spend-analysis) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/supplier-spend-analysis/?from=gh-procurement-supplier-spend-analysis)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-spend-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-spend-analysis&from=gh-procurement-supplier-spend-analysis)*
 
 ## The outcome
 
@@ -42,20 +49,20 @@ One analysis, in a fixed order:
 10. **Decisions** for whoever leads the business.
 11. **What was not supplied or checked,** starting with the plain statement that no contract or price list was read.
 
-Every figure can be checked against the export with a calculator. An opportunity that needs a closer look can go on to a [vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/).
+Every figure can be checked against the export with a calculator. An opportunity that needs a closer look can go on to a [vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-spend-analysis&from=gh-procurement-supplier-spend-analysis).
 
 See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/), which decides who the business buys from and on what terms.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which holds the accounts-payable ledger and owns the budget the suppliers are paid from.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where materials, packaging and freight are most of the cost and often come from more suppliers than anyone planned.
-- [Construction](https://fullypowered.ai/industries/construction/), where each project picks its own suppliers and the same materials end up bought from many of them.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where food, drink, linen and cleaning arrive from a long list of suppliers, site by site.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when buying has spread across teams and nobody sees the whole supplier list.
-- [Acquisitions and integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when two businesses bring two sets of suppliers for the same needs.
-- [Private equity and portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/), where owners want to know early how supplier spend is spread across a portfolio company.
+- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-spend-analysis&from=gh-procurement-supplier-spend-analysis), which decides who the business buys from and on what terms.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-spend-analysis&from=gh-procurement-supplier-spend-analysis), which holds the accounts-payable ledger and owns the budget the suppliers are paid from.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-spend-analysis&from=gh-procurement-supplier-spend-analysis), where materials, packaging and freight are most of the cost and often come from more suppliers than anyone planned.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-spend-analysis&from=gh-procurement-supplier-spend-analysis), where each project picks its own suppliers and the same materials end up bought from many of them.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-spend-analysis&from=gh-procurement-supplier-spend-analysis), where food, drink, linen and cleaning arrive from a long list of suppliers, site by site.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-spend-analysis&from=gh-procurement-supplier-spend-analysis), when buying has spread across teams and nobody sees the whole supplier list.
+- [Acquisitions and integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-spend-analysis&from=gh-procurement-supplier-spend-analysis), when two businesses bring two sets of suppliers for the same needs.
+- [Private equity and portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-spend-analysis&from=gh-procurement-supplier-spend-analysis), where owners want to know early how supplier spend is spread across a portfolio company.
 
 ## What has to change for your company
 
@@ -65,7 +72,7 @@ Map the column headers of your accounting system's export, and decide whether yo
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with the template; it lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past period your finance lead knows well, with hard cases written in advance: an export whose headers do not match, one bill exported twice, a supplier spelled three ways, two names that look alike but are different businesses, a credit note larger than the bills it offsets, and a category that sits just under the floor. The runner checks every figure against the export before anyone relies on the analysis. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past period your finance lead knows well, with hard cases written in advance: an export whose headers do not match, one bill exported twice, a supplier spelled three ways, two names that look alike but are different businesses, a credit note larger than the bills it offsets, and a category that sits just under the floor. The runner checks every figure against the export before anyone relies on the analysis. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-spend-analysis&from=gh-procurement-supplier-spend-analysis) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-spend-analysis&from=gh-procurement-supplier-spend-analysis) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -93,9 +100,9 @@ Testing in your environment means running it on a past period your finance lead 
 ## Related workflow templates
 
 - [Software subscription and vendor spend review](../software-subscription-and-vendor-spend-review/)
-- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/)
+- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-spend-analysis&from=gh-procurement-supplier-spend-analysis)
 - [Vendor quote comparison](../vendor-quote-comparison/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-supplier-spend-analysis&from=gh-procurement-supplier-spend-analysis).

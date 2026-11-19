@@ -1,10 +1,17 @@
 # Category sourcing plan
 
-For the buyer or operations lead who owns one spend category, such as packaging or IT hardware: its spend and suppliers on one page, where it sits on a supply-risk and spend matrix, the value levers the evidence supports, and a dated sourcing plan. A person chooses the approach.
+Lay out one spend category's suppliers and spend, its supply-risk position and value levers, then a dated sourcing plan. A person chooses the approach.
 
-*Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/category-sourcing-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Category sourcing plan on our website](https://fullypowered.ai/workflows/category-sourcing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/category-sourcing-plan/?from=gh-procurement-category-sourcing-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/category-sourcing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan)*
 
 ## The outcome
 
@@ -51,14 +58,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/), which owns each category and the case for how it is bought.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where the operations lead often owns packaging, maintenance supplies or equipment without a purchasing team.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where packaging, raw materials and maintenance parts are bought from a handful of suppliers year after year.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where shipping and display packaging carry both cost and the brand.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where boxes, mailers and fulfilment supplies grow with every order.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where IT hardware and office services are bought by an office or operations manager.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where categories have been bought on habit for years and nobody has looked at them whole.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), where spend in a category doubles before anyone owns it.
+- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan), which owns each category and the case for how it is bought.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan), where the operations lead often owns packaging, maintenance supplies or equipment without a purchasing team.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan), where packaging, raw materials and maintenance parts are bought from a handful of suppliers year after year.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan), where shipping and display packaging carry both cost and the brand.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan), where boxes, mailers and fulfilment supplies grow with every order.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan), where IT hardware and office services are bought by an office or operations manager.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan), where categories have been bought on habit for years and nobody has looked at them whole.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan), where spend in a category doubles before anyone owns it.
 
 ## What has to change for your company
 
@@ -73,7 +80,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. This version was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it; the record says that the run was made by the model that revised the template, lists two small wording fixes made during the run and checked against its output, and lists the small edits made after an independent review, which were checked against the recorded output but not run again. An earlier run of the first draft, the same day, found the gaps this version fixes. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on one or two categories your buyer knows well, with hard cases written in advance: an export whose headers do not match, a row whose amount does not equal quantity times price, an item only one supplier can make, a notice date that falls before the plan starts. The buyer checks every figure and date against the export and the supplier facts before anyone relies on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on one or two categories your buyer knows well, with hard cases written in advance: an export whose headers do not match, a row whose amount does not equal quantity times price, an item only one supplier can make, a notice date that falls before the plan starts. The buyer checks every figure and date against the export and the supplier facts before anyone relies on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -102,8 +109,8 @@ Testing in your environment means running it on one or two categories your buyer
 
 - [Vendor quote comparison](../vendor-quote-comparison/)
 - [Vendor renewal review](../vendor-renewal-review/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan).
