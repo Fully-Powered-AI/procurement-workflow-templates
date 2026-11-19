@@ -1,6 +1,6 @@
 # Vendor quote comparison
 
-Agree the criteria first, cost every quote the same way and see each vendor eliminated, on hold or shortlisted. A person chooses; a reviewer reads terms.
+Compare vendor quotes on criteria agreed first: every quote costed the same way, each vendor eliminated, on hold or shortlisted. Free template.
 
 > [!TIP]
 > **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Vendor quote comparison on our website](https://fullypowered.ai/workflows/vendor-quote-comparison/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-vendor-quote-comparison&from=gh-procurement-vendor-quote-comparison). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
