@@ -8,7 +8,7 @@ Lay out one spend category's suppliers and spend, its supply-risk position and v
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/category-sourcing-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan)*
@@ -54,7 +54,7 @@ One plan, in a fixed order:
 
 Good looks like this: the decision maker can see in two minutes where the category stands, what could be done about it, and the one date that cannot be missed.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -78,7 +78,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. This version was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it; the record says that the run was made by the model that revised the template, lists two small wording fixes made during the run and checked against its output, and lists the small edits made after an independent review, which were checked against the recorded output but not run again. An earlier run of the first draft, the same day, found the gaps this version fixes. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. This version was tried once on its example in Claude on 10 November 2026, and the record of that run is published with it; the record says that the run was made by the model that revised the template, lists two small wording fixes made during the run and checked against its output, and lists the small edits made after an independent review, which were checked against the recorded output but not run again. An earlier run of the first draft, the same day, found the gaps this version fixes. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on one or two categories your buyer knows well, with hard cases written in advance: an export whose headers do not match, a row whose amount does not equal quantity times price, an item only one supplier can make, a notice date that falls before the plan starts. The buyer checks every figure and date against the export and the supplier facts before anyone relies on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-category-sourcing-plan&from=gh-procurement-category-sourcing-plan) describes the record we keep.
 
@@ -86,13 +86,13 @@ Testing in your environment means running it on one or two categories your buyer
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

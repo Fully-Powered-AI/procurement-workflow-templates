@@ -1,10 +1,10 @@
-# Vendor renewal review: a trial on its invented example
+# Vendor renewal review: a trial on its example
 
 - **Product:** Claude, run in Claude Code
 
 Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date: 2026-11-09.
 
-The inputs are the invented example in `public/example.md` (Supplier D, an invented dispatch software supplier). No client data was used. The person trying the template did not write it, and read only the example's inputs before producing the page below; the example's own output was read afterwards, for comparison.
+The inputs are the example in `public/example.md` (Supplier D, an illustrative dispatch software supplier). No client data was used. The person trying the template did not write it, and read only the example's inputs before producing the page below; the example's own output was read afterwards, for comparison.
 
 ## Inputs used
 

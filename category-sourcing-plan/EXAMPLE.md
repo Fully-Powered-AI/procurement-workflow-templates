@@ -1,6 +1,6 @@
-# Category sourcing plan: an invented example
+# Category sourcing plan: an example
 
-*Illustrative example with invented data.* The company, the suppliers, the people, the rows, the dates and every figure below are invented. The company is an invented 140-person maker of jarred sauces. Its purchasing lead owns the shipping packaging category and is preparing a plan for the operations director, who approves it; the company's outside lawyer reads agreements. People are referred to by role and suppliers by letter. The company's settings are the template's defaults.
+*Illustrative example with sample data.* The company, the suppliers, the people, the rows, the dates and every figure below are illustrative. The company is an illustrative 140-person maker of jarred sauces. Its purchasing lead owns the shipping packaging category and is preparing a plan for the operations director, who approves it; the company's outside lawyer reads agreements. People are referred to by role and suppliers by letter. The company's settings are the template's defaults.
 
 The inputs come first, in full, so the template can be run on them. The plan follows.
 

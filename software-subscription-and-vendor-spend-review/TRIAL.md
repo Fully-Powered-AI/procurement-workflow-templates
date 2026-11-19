@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID `claude-sonnet-5-5`)
 - **Date:** 2026-11-09
 
-The inputs were the invented example in `public/example.md` (Agency W, with suppliers called Vendor A to Vendor Q): its settings, spend export (40 rows), owner notes (12 rows) and leavers list (1 row). No client data was used. The model did not write the template. It read the template and the example's inputs, followed the instruction block and the output format, produced the review, and only then read the example's published output and the reviewer checklist to compare. The figures were recomputed with a short script after the review was drafted. Nothing was executed from the template itself.
+The inputs were the example in `public/example.md` (Agency W, with suppliers called Vendor A to Vendor Q): its settings, spend export (40 rows), owner notes (12 rows) and leavers list (1 row). No client data was used. The model did not write the template. It read the template and the example's inputs, followed the instruction block and the output format, produced the review, and only then read the example's published output and the reviewer checklist to compare. The figures were recomputed with a short script after the review was drafted. Nothing was executed from the template itself.
 
 ## What came out
 
@@ -49,7 +49,7 @@ Where the template was ambiguous and the model had to choose:
 
 Shortcomings: the instruction block repeats most of the template but leaves out a few small rules (the stop for an invalid `paid_by`, `cycle`, `critical` or `fallback` value is covered only as "a value is not an allowed one", and the rule that the last four digits of a card may be shown is missing). Both were added after the run; see "Changed after this run, and not run again" below. The acceptance tests in the template were not run in this trial; only the one example was.
 
-This is one run, by one model, on an invented example. It shows the instructions can be followed to the stated output on these inputs. It does not show how the template behaves on a real export, in other products or on other models.
+This is one run, by one model, on an example. It shows the instructions can be followed to the stated output on these inputs. It does not show how the template behaves on a real export, in other products or on other models.
 
 ## Changed after this run, and not run again
 

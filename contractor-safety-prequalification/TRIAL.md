@@ -4,7 +4,7 @@
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md`: the job brief and settings for the first run; the two dates, the contractor's answers, documents E1 to E8 and the people list for the second. No client data was used.
+The inputs were the example in `public/example.md`: the job brief and settings for the first run; the two dates, the contractor's answers, documents E1 to E8 and the people list for the second. No client data was used.
 
 ## How the trial was run, and why it is not blind
 
@@ -82,14 +82,14 @@ Where the template still left me to judge:
 
 Reviewer checklist: items 1 to 7 and 9 hold for both runs on these inputs. Item 8 (checks made or assigned before the decision) cannot be tested by a run; the record only lists them. Nothing was sent, approved or added to any list, and the decision line was blank.
 
-This was one run by one model on one invented example, after the same model had revised the template and the example. It shows the revised instructions can be followed to a complete record and that the C4 question now has one reading on these inputs; it does not show that two reviewers or two models would reach the same scores.
+This was one run by one model on one example, after the same model had revised the template and the example. It shows the revised instructions can be followed to a complete record and that the C4 question now has one reading on these inputs; it does not show that two reviewers or two models would reach the same scores.
 
 ## After the run
 
 Everything above is the record of the run as made; none of it has been changed. An independent review the same day passed the template and noted that this record is a summary of the output rather than the output itself, and that it comes from the same model that revised the template and the example; a blind run in a fresh session would be stronger evidence and has not yet been made. After the review, without a further run:
 
 - The three judgements listed above were written into the template, each the way this run made it: a method statement or a risk assessment for T1 without the other is Partly met; a typed summary the person says is on file counts even where it does not show the holder's name; a wider decision type takes this record's review date.
-- The example's incident summary (E2), an invented input, gained the line "2023 (November, December): no reportable injuries", so that every month of the period it covers is accounted for. The run above used the input without that line; C2 was Met either way.
+- The example's incident summary (E2), a sample input, gained the line "2023 (November, December): no reportable injuries", so that every month of the period it covers is accounted for. The run above used the input without that line; C2 was Met either way.
 - The example's list of documents now shows E7 answering H2 as well as T1, since its evidence register cites E7 under H2. This record does not say how the run listed E7.
 
 None of these changes a score, a condition, a check, a point or the review date on the example.

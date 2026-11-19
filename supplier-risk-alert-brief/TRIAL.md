@@ -1,10 +1,10 @@
-# Trial: Supplier risk alert brief, run on its invented example
+# Trial: Supplier risk alert brief, run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 
-The inputs for this trial are the invented example published with the template (`public/example.md`, sections 1 to 7: the three reports, the event, the items export, where each item is used, the notes, the settings and the last brief). No client data was used.
+The inputs for this trial are the example published with the template (`public/example.md`, sections 1 to 7: the three reports, the event, the items export, where each item is used, the notes, the settings and the last brief). No client data was used.
 
 This is the second run on 10 November 2026, and the one recorded here. A first run that day, by a different model (Sonnet 5.5) that had not written the template, followed the earlier wording and found eight places where the template left a choice open. After an independent review, five of them were closed in the template and one further gap was filled: when the event is at the supplier itself, "not part of this event" is the wording even when the supplier's own suppliers are not known, and they are not listed as unknown; the decision whether to put the questions to the supplier is owned by the brief reader; the production-plan action covers any item not rated Low whose cover is known, a Not assessed item included, and "confirm an estimate" covers an estimated weekly use on a Not assessed item; the margin's default of 14 is in the pasted instructions, with the rule to use the defaults when a setting is missing; and an estimate's mark is repeated wherever the figure is repeated. Source lines now keep the time of day when it is given. The published example was brought into line with those rules: a seventh action for EB-10, the "(estimate)" mark on the gap in LH-40's rating reason, times on the source lines, and the fourth question no longer asking whether the housings are coated.
 
@@ -107,4 +107,4 @@ Where the template still leaves a choice open, as found in this run:
 3. **The source tag on a question** when it follows from neither a source nor an item. It did not arise here.
 4. **Which items the decision about questions addresses,** for its deadline. This run, like the example, took all items the questions concern, giving EB-10's one working day.
 
-Nothing in the output was beyond what the template permits: it contacted no one, changed no record, rated no item on spend, and judged neither the supplier's health nor the length of the stoppage. The acceptance tests in the template were not run separately; this trial covers only the invented example (it exercises tests 1, 2, 3 and 4 and, in part, 6).
+Nothing in the output was beyond what the template permits: it contacted no one, changed no record, rated no item on spend, and judged neither the supplier's health nor the length of the stoppage. The acceptance tests in the template were not run separately; this trial covers only the example (it exercises tests 1, 2, 3 and 4 and, in part, 6).

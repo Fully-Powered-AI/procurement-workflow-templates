@@ -1,6 +1,6 @@
-# Supplier issue notice: an invented example
+# Supplier issue notice: an example
 
-*Illustrative example with invented data.* The companies, the documents, the contact details and every figure below are invented. Company M is an invented 60-person maker of steel storage cabinets. Supplier A, also invented, sells it hinges, screws, drawer slides and shelf clips. One invoice from Supplier A does not agree with the order or with what arrived, and Company M's buyer prepares an invoice dispute for the purchasing manager to approve. People are referred to by role.
+*Illustrative example with sample data.* The companies, the documents, the contact details and every figure below are illustrative. Company M is an illustrative 60-person maker of steel storage cabinets. Supplier A, also invented, sells it hinges, screws, drawer slides and shelf clips. One invoice from Supplier A does not agree with the order or with what arrived, and Company M's buyer prepares an invoice dispute for the purchasing manager to approve. People are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The draft follows.
 

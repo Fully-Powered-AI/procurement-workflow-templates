@@ -155,7 +155,7 @@ Every figure traces to the documents and files supplied for [business] on [date]
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a test. The one trial on the invented example, recorded in public/trial.md, met the ground of test 1 and, in passing, cases like tests 3, 5, 7, 8 and 13. The refusal and stop tests (6 and 9 to 12) have not been run.
+Proposed tests. None has been run as a test. The one trial on the example, recorded in public/trial.md, met the ground of test 1 and, in passing, cases like tests 3, 5, 7, 8 and 13. The refusal and stop tests (6 and 9 to 12) have not been run.
 
 1. **Ordinary renewal.** Renewal date 1 January 2027, today 10 November 2026, broker lead 21 days. Expected: questions to the broker by Friday 11 December 2026 (31 days); renewal Friday 1 January 2027 (52 days); status ON TRACK.
 2. **Renewal date passed.** The same dates, today 4 January 2027. Expected: RENEWAL DATE PASSED, 3 days ago; the first decision says what applies now is the first question for the broker; no option is offered.
@@ -307,4 +307,4 @@ return the pack.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026; the trial record is published with it. The run covered the ordinary case and did not reach the refusal and stop cases. Small edits made to the procedure, the pasted instructions, the output format and the example after an independent review have not been run again; the trial record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its example in Claude on 10 November 2026; the trial record is published with it. The run covered the ordinary case and did not reach the refusal and stop cases. Small edits made to the procedure, the pasted instructions, the output format and the example after an independent review have not been run again; the trial record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

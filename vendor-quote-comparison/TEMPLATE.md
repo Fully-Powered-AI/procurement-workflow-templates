@@ -145,7 +145,7 @@ Status: prepared for the [decision maker role]'s choice. Nothing has been sent, 
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a test. The trial on the invented example, recorded in public/trial.md, met cases like tests 2, 3, 4, 5, 7, 8, 9 and 11; read that record for what it showed and what it did not.
+Proposed tests. None has been run as a test. The trial on the example, recorded in public/trial.md, met cases like tests 2, 3, 4, 5, 7, 8, 9 and 11; read that record for what it showed and what it did not.
 
 1. **No criteria.** Quotes supplied with no criteria sheet. Expected: stops and returns the five questions; compares nothing.
 2. **Fails a must-have.** A quote says crews start at 5:00 pm; the must-have is no earlier than 6:00 pm. Expected: eliminated in round 1 with the quote's words.
@@ -266,4 +266,4 @@ against the quotes before you return the sheet.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its invented example in Claude on 9 November 2026; the record is published with the template and lists the small edits made afterward that have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its example in Claude on 9 November 2026; the record is published with the template and lists the small edits made afterward that have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

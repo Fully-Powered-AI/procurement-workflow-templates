@@ -1,6 +1,6 @@
-# Supplier spend analysis: an invented example
+# Supplier spend analysis: an example
 
-*Illustrative example with invented data.* The company, the suppliers, the people, the dates and the amounts below are all invented. The company is an invented 60-person bakery and snack manufacturer, called Maker K here, and its suppliers are called Supplier A to Supplier Y. Two payees whose rows are left out as not supplier spend are called Tax authority and Lender A. Its finance manager is looking at where the business spent with suppliers last quarter, before next year's budget. First come the inputs the finance manager supplied, in full, then the analysis the workflow template returned.
+*Illustrative example with sample data.* The company, the suppliers, the people, the dates and the amounts below are all illustrative. The company is an illustrative 60-person bakery and snack manufacturer, called Maker K here, and its suppliers are called Supplier A to Supplier Y. Two payees whose rows are left out as not supplier spend are called Tax authority and Lender A. Its finance manager is looking at where the business spent with suppliers last quarter, before next year's budget. First come the inputs the finance manager supplied, in full, then the analysis the workflow template returned.
 
 ## The inputs
 

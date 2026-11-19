@@ -1,6 +1,6 @@
-# Vendor quote comparison: an invented example
+# Vendor quote comparison: an example
 
-*Illustrative example with invented data.* The firm, the vendors, the quotes, the notes and every figure below are invented. The firm is an invented 28-person accounting practice choosing a new office-cleaning contractor. Its office manager gathered six quotes; the managing partner chooses, and the firm's outside lawyer reads contract terms. People are referred to by role and vendors by letter.
+*Illustrative example with sample data.* The firm, the vendors, the quotes, the notes and every figure below are illustrative. The firm is an illustrative 28-person accounting practice choosing a new office-cleaning contractor. Its office manager gathered six quotes; the managing partner chooses, and the firm's outside lawyer reads contract terms. People are referred to by role and vendors by letter.
 
 The inputs come first, in full, so the template can be run on them. The comparison sheet follows.
 

@@ -1,10 +1,10 @@
-# Business insurance renewal review: tried on its invented example
+# Business insurance renewal review: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in [example.md](example.md): Business C, Broker B and Insurers K, M and N. No client data was used. This model did not write the template. It followed the instruction block and the output format in the template and used only the inputs section of the example. It read the example's own output only after it had produced its pack.
+The inputs were the example in [example.md](example.md): Business C, Broker B and Insurers K, M and N. No client data was used. This model did not write the template. It followed the instruction block and the output format in the template and used only the inputs section of the example. It read the example's own output only after it had produced its pack.
 
 ## Inputs used
 
@@ -133,12 +133,12 @@ Every figure traces to the documents and files supplied for Business C on 10 Nov
 - **"Each schedule that shows no ... deductible".** It is unclear whether this covers the renewal terms as well as the expiring schedules. This run named both for the workers compensation policy.
 - **Missing figure given to the insurer for vehicles.** Step 10 lists missing inputs and schedules but not a blank `given_to_insurer`. This run added a line for it; the example did not.
 - **Case-insensitive match of line names.** Step 5 matches a contract's `line` to a schedule, but not explicitly ignoring case or the capitalised schedule titles. This run matched them ignoring case.
-- **Version notes are out of date.** The template's last section still says "Not yet tried on its invented example in a named AI product". This trial changes that, and the line should be updated by whoever owns the template.
+- **Version notes are out of date.** The template's last section still says "Not yet tried on its example in a named AI product". This trial changes that, and the line should be updated by whoever owns the template.
 - **Acceptance tests.** This run covers the ordinary case only (test 1's dates, and in passing tests 7, 8 and 13, whose situations are in the inputs). The refusal and stop tests (6, 9 to 12) were not run.
 
 ### Not shown
 
-This was one run, by one model, on an invented example. It shows the template can be followed to a complete pack on these inputs. It does not show how it behaves on a client's real documents or in other AI products, and it is not a test for any client.
+This was one run, by one model, on an example. It shows the template can be followed to a complete pack on these inputs. It does not show how it behaves on a client's real documents or in other AI products, and it is not a test for any client.
 
 ## Edits made after this run
 

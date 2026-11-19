@@ -70,7 +70,7 @@
       "commit": "4497a99e149ffe2447eeaeed1d7706cd91c2edfb",
       "path": "supply-chain/skills/supplier-risk/trigger_eval_set.json",
       "licence": "Apache-2.0",
-      "contribution": "Among its sample requests, a fire at a sole-source supplier's plant reported in the news, the kind of event the invented example uses.",
+      "contribution": "Among its sample requests, a fire at a sole-source supplier's plant reported in the news, the kind of event the example uses.",
       "text_reused": false,
       "notice": "notices/panaversity-agentfactory-business-plugins-LICENSE.txt"
     }

@@ -8,7 +8,7 @@ Get a safety questionnaire scaled to the job, then a record of the contractor's 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/contractor-safety-prequalification/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-contractor-safety-prequalification&from=gh-contractor-safety-prequalification)*
@@ -53,7 +53,7 @@ The second run gives one evaluation record, in a fixed order:
 
 People named in the contractor's incident records appear as Worker 1, Worker 2, with no injury or health detail.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -79,7 +79,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, and the record of that run is published with the template. A first run that day found that one competence question could be scored two ways and that the example held two dates its inputs did not give; the template and the example were revised, the revised version was run again the same day, and the published record is that second run. After an independent review, three judgements that run had to make were written into the template, the same way the run made them, and two small corrections were made to the example; none changes a score on the example, and the run was not repeated. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026, and the record of that run is published with the template. A first run that day found that one competence question could be scored two ways and that the example held two dates its inputs did not give; the template and the example were revised, the revised version was run again the same day, and the published record is that second run. After an independent review, three judgements that run had to make were written into the template, the same way the run made them, and two small corrections were made to the example; none changes a score on the example, and the run was not repeated. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three contractors your competent person already knows well, plus hard cases written in advance, each with its expected result: a job described only as "general work", a certificate claimed but not attached, a card that runs out during the job, an answer that relies on harnesses alone, insurance below your minimum, an injured worker named in the records. The competent person checks every score and every date against the documents before anyone relies on the record. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-contractor-safety-prequalification&from=gh-contractor-safety-prequalification) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=procurement-contractor-safety-prequalification&from=gh-contractor-safety-prequalification) describes the record we keep.
 
@@ -87,13 +87,13 @@ Testing in your environment means running it on two or three contractors your co
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

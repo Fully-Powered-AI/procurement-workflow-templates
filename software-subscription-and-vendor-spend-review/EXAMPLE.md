@@ -1,6 +1,6 @@
-# Software subscription and vendor spend review: an invented example
+# Software subscription and vendor spend review: an example
 
-*Illustrative example with invented data.* The agency, the suppliers, the people, the dates and the amounts below are all invented. The agency is an invented 38-person design and marketing agency, called Agency W here, and its suppliers are called Vendor A to Vendor Q. Its finance and operations manager is running the quarterly review of what the agency pays for. First come the inputs the finance and operations manager supplied, in full, then the review the workflow template returned.
+*Illustrative example with sample data.* The agency, the suppliers, the people, the dates and the amounts below are all illustrative. The agency is an illustrative 38-person design and marketing agency, called Agency W here, and its suppliers are called Vendor A to Vendor Q. Its finance and operations manager is running the quarterly review of what the agency pays for. First come the inputs the finance and operations manager supplied, in full, then the review the workflow template returned.
 
 ## The inputs
 

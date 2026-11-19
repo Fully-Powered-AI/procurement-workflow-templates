@@ -1,10 +1,10 @@
-# Supplier spend analysis: trial on the invented example
+# Supplier spend analysis: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID `claude-sonnet-5-5`), high effort. It did not write this template.
 - **Date:** 2026-11-10
 
-The inputs were the invented example in [`example.md`](example.md): the settings, the accounts-payable export (61 rows) and the category map (21 rows) for the invented company Maker K. No client data was used.
+The inputs were the example in [`example.md`](example.md): the settings, the accounts-payable export (61 rows) and the category map (21 rows) for the illustrative company Maker K. No client data was used.
 
 ## How it was run
 
@@ -155,4 +155,4 @@ Every figure traces to the inputs supplied for Maker K on 10 November 2026. Noth
 6. Step 9 of the instruction block now carries the procedure's split, with each category's spend, for a supplier placed by its account in more than one category, and both say such a supplier counts once in each of those categories' supplier counts and once in the number of suppliers. The example has no such supplier.
 7. The instruction block's closing paragraph now shows an employee reimbursement "with its amount and account", as the exceptions do. The example has no such row.
 
-**Not done.** This was one run, by one model, in one product, on invented data. It says nothing about client exports, other products, long exports (the 50-supplier list length was not reached), or exports with a missing column, a duplicate bill, a missing category map or no saving assumption.
+**Not done.** This was one run, by one model, in one product, on sample data. It says nothing about client exports, other products, long exports (the 50-supplier list length was not reached), or exports with a missing column, a duplicate bill, a missing category map or no saving assumption.

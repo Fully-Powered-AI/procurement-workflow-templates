@@ -1,10 +1,10 @@
-# Category sourcing plan: trial on the invented example
+# Category sourcing plan: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Opus 5.5 (model ID claude-opus-5-5), the model that revised the template after review; not an independent run
 - **Date:** 2026-11-10
 
-The inputs were the invented example's own inputs (the category brief, spend export, supplier facts, market notes and user notes in `public/example.md`), as revised on 10 November 2026 so that each supplier line says which items the supplier is qualified for. No client data was used. The company, suppliers, people and figures are all invented. The company settings were the template's defaults.
+The inputs were the example's own inputs (the category brief, spend export, supplier facts, market notes and user notes in `public/example.md`), as revised on 10 November 2026 so that each supplier line says which items the supplier is qualified for. No client data was used. The company, suppliers, people and figures are all illustrative. The company settings were the template's defaults.
 
 This record replaces the record of an earlier run of the first draft (summarised at the end). The run below followed the instruction block and the output format in `member/template.md` on the inputs above. Because the same model revised the template and made this run, it is a weaker check than a run by a model that had not seen the template's reasoning; the published example's plan was then written from this output. Small edits made after the run, and not re-run, are listed under "Edits after this record was written".
 

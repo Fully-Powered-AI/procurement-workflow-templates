@@ -1,14 +1,14 @@
-# Supplier performance scorecard: tried on its invented example
+# Supplier performance scorecard: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This run used only the invented example in [`example.md`](example.md). No client data was used. The model that ran it did not write the template.
+This run used only the example in [`example.md`](example.md). No client data was used. The model that ran it did not write the template.
 
 ## Inputs used
 
-The seven inputs of the invented example, by reference: the settings, the key supplier list, the purchase-order lines export (20 rows), the receiving export (21 rows), the returns export (1 row), the agreed-price list (6 rows) and last quarter's figures (3 rows), all under "The inputs" in `example.md`. The published output in that file was not read until the run below was finished. The instruction block and the output format in the template were followed as written. The figures were also recomputed with a short script as a cross-check.
+The seven inputs of the example, by reference: the settings, the key supplier list, the purchase-order lines export (20 rows), the receiving export (21 rows), the returns export (1 row), the agreed-price list (6 rows) and last quarter's figures (3 rows), all under "The inputs" in `example.md`. The published output in that file was not read until the run below was finished. The instruction block and the output format in the template were followed as written. The figures were also recomputed with a short script as a cross-check.
 
 ## What came out
 
@@ -97,7 +97,7 @@ Every figure traces to the exports supplied for Brand R on 6 October 2026. Nothi
   - Whether Supplier D, a supplier not on the key list, should have its receipt checked. The step says receipts for lines not in the export are listed; Supplier D's line is in the export, so its receipt was left out of both the scoring and the checks. This is a reasonable reading but is not spelled out.
   - Whether "the owner" in a decision means the role to name or a person. This run named the owner role on the supplier list.
 - **Shortcomings in the template itself.** Its acceptance tests are still marked as proposed and not run, and its version notes still say it has not been tried on its example; both are now out of date for this run, and a reviewer has to update them. The template names no rule for how many places a share of spend is rounded when the shares must add up; here they did (54.7, 37.7, 7.6 make 100.0).
-- **Limits of this trial.** One run, one model, one invented example. It shows the instructions can be followed to the published result by this model. It does not show how other products behave, how the template copes with a real purchasing export, or that the figures would hold for a real business. Only one of the twelve acceptance tests (the ordinary quarter) was in effect exercised, along with the late-delivery, delivery-in-parts, too-few-to-score and sole-source cases that the example happens to contain.
+- **Limits of this trial.** One run, one model, one example. It shows the instructions can be followed to the published result by this model. It does not show how other products behave, how the template copes with a real purchasing export, or that the figures would hold for a real business. Only one of the twelve acceptance tests (the ordinary quarter) was in effect exercised, along with the late-delivery, delivery-in-parts, too-few-to-score and sole-source cases that the example happens to contain.
 
 ## Changes made after this run
 

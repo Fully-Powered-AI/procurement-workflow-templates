@@ -1,10 +1,10 @@
-# Supplier issue notice: trial on the invented example
+# Supplier issue notice: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md` (sections 1 to 7: the brief, the settings, the invoice, the purchase order, the goods-received export, the earlier invoices and the notes). No client data was used. The model that ran the trial did not write the template. It read the template and only the example's inputs, followed the instruction block and the output format, and only then read the example's published draft to compare.
+The inputs were the example in `public/example.md` (sections 1 to 7: the brief, the settings, the invoice, the purchase order, the goods-received export, the earlier invoices and the notes). No client data was used. The model that ran the trial did not write the template. It read the template and only the example's inputs, followed the instruction block and the output format, and only then read the example's published draft to compare.
 
 ## What came out
 
@@ -97,7 +97,7 @@ Status: draft for the approver. Nothing has been sent, paid, held or changed.
   5. The checklist and cover sheet say to attach the invoice as evidence, but the invoice here carries a printed bank-change message. The template says the details are never repeated, which attaching the invoice may do. The template has no rule for this; the model raised it as a decision.
   6. "Stop before sending" is a list of conditions, while "Decisions for the approver" carries a count. The template does not say whether a stop item (the bank-details change) is also counted as a decision. The model did not count it.
   7. The "Date prepared" is used for which receipts count (those dated on or before it). The template does not say what to do with a receipt dated after the date prepared but before the planned send date.
-- **Shortcomings of this trial.** One run, one invented example, one model. Only the invoice-dispute path was exercised; the corrective-action path, the headers mismatch stop, the missing-rate stop, the tolerance edge cases beyond line 4 and the refusals were not tried. Nothing was tested for a client.
+- **Shortcomings of this trial.** One run, one example, one model. Only the invoice-dispute path was exercised; the corrective-action path, the headers mismatch stop, the missing-rate stop, the tolerance edge cases beyond line 4 and the refusals were not tried. Nothing was tested for a client.
 
 ## Edited after this run, 10 November 2026, and not run again
 

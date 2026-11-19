@@ -1,6 +1,6 @@
-# Contractor safety prequalification: an invented example
+# Contractor safety prequalification: an example
 
-*Illustrative example with invented data.* The company, the contractor, the people, the documents, the dates and every figure below are invented. The company is an invented food distribution business with two warehouses. Its facilities manager is bringing in an electrical contractor it has not used before to replace failed light fittings high above a working warehouse floor. Its outside health and safety adviser decides. Organisations are referred to by letter.
+*Illustrative example with sample data.* The company, the contractor, the people, the documents, the dates and every figure below are illustrative. The company is an illustrative food distribution business with two warehouses. Its facilities manager is bringing in an electrical contractor it has not used before to replace failed light fittings high above a working warehouse floor. Its outside health and safety adviser decides. Organisations are referred to by letter.
 
 The example has two runs. First come the inputs for the first run, in full, and the questionnaire it returned. Then come the contractor's answers and documents, in full, and the evaluation record the second run returned.
 

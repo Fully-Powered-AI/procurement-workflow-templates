@@ -1,10 +1,10 @@
-# Vendor quote comparison: a trial on the invented example
+# Vendor quote comparison: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5). It did not write this template.
 - **Date:** 2026-11-09
 
-The inputs were the invented example in [example.md](example.md): the purchase brief, the criteria sheet, the six quotes and the call notes. They are invented, and no client data was used. The run followed the instruction block and the output format in the member template.
+The inputs were the example in [example.md](example.md): the purchase brief, the criteria sheet, the six quotes and the call notes. They are illustrative, and no client data was used. The run followed the instruction block and the output format in the member template.
 
 ## What came out
 

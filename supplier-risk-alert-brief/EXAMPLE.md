@@ -1,6 +1,6 @@
-# Supplier risk alert brief: an invented example
+# Supplier risk alert brief: an example
 
-*Illustrative example with invented data.* The companies, the news site, the people, the items and every figure below are invented. Company L is an invented maker of outdoor wall lights with about 70 people. Supplier B, also invented, die-casts three aluminium parts for it. On a Tuesday morning Company L's buyer reads that Supplier B's plant has had a fire, and prepares a brief for the procurement lead. People are referred to by role.
+*Illustrative example with sample data.* The companies, the news site, the people, the items and every figure below are illustrative. Company L is an illustrative maker of outdoor wall lights with about 70 people. Supplier B, also invented, die-casts three aluminium parts for it. On a Tuesday morning Company L's buyer reads that Supplier B's plant has had a fire, and prepares a brief for the procurement lead. People are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The brief follows.
 
@@ -10,7 +10,7 @@ The inputs come first, in full, so the template can be run on them. The brief fo
 
 ```
 S1
-Source: News site N (an invented regional business news site)
+Source: News site N (an illustrative regional business news site)
 Kind: news publication
 Published: Monday 9 November 2026
 Reached us: Tuesday 10 November 2026, 08:40, found by the buyer
