@@ -4,6 +4,8 @@ For a named job, the operations, facilities or site manager gets a safety questi
 
 *Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/contractor-safety-prequalification/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/contractor-safety-prequalification/?from=gh-contractor-safety-prequalification)
+
 ## The outcome
 
 Letting a contractor onto your site stops depending on a friendly phone call and a confident answer. The questions fit the job. A firm cleaning the offices answers four; a crew working from a platform above a busy warehouse floor answers every one, because the single riskiest task decides how hard the whole job is looked at.

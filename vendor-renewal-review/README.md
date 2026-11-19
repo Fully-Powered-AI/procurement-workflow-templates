@@ -4,6 +4,8 @@ Before a supplier's notice date, the operations lead takes one page to the decis
 
 *Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/vendor-renewal-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/vendor-renewal-review/?from=gh-procurement-vendor-renewal-review)
+
 ## The outcome
 
 A renewal becomes a choice someone makes on purpose, in time, instead of something that happens because nobody looked. The decision-maker sees the notice date and the date to decide by at the top of the page, with the days left to each.

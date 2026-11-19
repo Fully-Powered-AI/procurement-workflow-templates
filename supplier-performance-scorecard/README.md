@@ -4,6 +4,8 @@ Once a quarter, the buyer or operations lead scores each key supplier from the b
 
 *Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-performance-scorecard/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/supplier-performance-scorecard/?from=gh-supplier-performance-scorecard)
+
 ## The outcome
 
 Every key supplier gets the same honest report card each quarter, built from what actually arrived at your door. Did the goods come on the date on the order? Did the full quantity come? How much was rejected at receiving or sent back? Was each line priced at what you agreed? Did the supplier confirm your orders promptly? Each answer is a figure with its target beside it and last quarter's figure next to that, so a slide shows up before it becomes a crisis.

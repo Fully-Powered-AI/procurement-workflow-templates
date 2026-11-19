@@ -4,6 +4,8 @@ When a supplier bills for more than was ordered or received, or falls short of a
 
 *Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-issue-notice/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/supplier-issue-notice/?from=gh-procurement-supplier-issue-notice)
+
 ## The outcome
 
 A supplier problem is raised once, properly, in writing. In place of a quick email saying an invoice looks wrong, the supplier receives a notice that names each item, sets what was billed beside what was ordered and what arrived, gives the amount in question, and says exactly what would settle it and by which date. A delivery or quality problem gets the same treatment: the supplier's result for the period, worked out from your own delivery records, beside the target the supplier agreed to, and a request for a written plan to put it right.

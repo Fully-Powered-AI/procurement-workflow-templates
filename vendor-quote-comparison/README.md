@@ -4,6 +4,8 @@ Before anyone signs, the person choosing a vendor gets one sheet: the criteria a
 
 *Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/vendor-quote-comparison/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/vendor-quote-comparison/?from=gh-procurement-vendor-quote-comparison)
+
 ## The outcome
 
 Choosing between quotes stops being a matter of whichever sales call went best. The criteria are written down and agreed before a single quote is compared, so nobody quietly moves the goalposts toward a favorite. Every quote is costed over the same months, with one-off charges, price rises and separately priced extras counted, so a low monthly fee cannot hide a higher bill.

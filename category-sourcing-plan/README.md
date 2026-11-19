@@ -4,6 +4,8 @@ For the buyer or operations lead who owns one spend category, such as packaging 
 
 *Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/category-sourcing-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/category-sourcing-plan/?from=gh-procurement-category-sourcing-plan)
+
 ## The outcome
 
 A category that has been bought out of habit gets looked at as a whole. Twelve months of spend are laid out by supplier and by item, with every total checked back to the rows, so the conversation starts from what was actually paid. The same box bought at five different prices, a small supplier used for rush orders, a price rise nobody explained: they are on the page, not in someone's memory.

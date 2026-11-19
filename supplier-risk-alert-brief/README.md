@@ -4,6 +4,8 @@ When something happens to a supplier you depend on, the buyer gets a dated brief
 
 *Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-risk-alert-brief/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/supplier-risk-alert-brief/?from=gh-procurement-supplier-risk-alert-brief)
+
 ## The outcome
 
 Bad news about a supplier arrives in pieces: a headline, a short email from the account manager, something a colleague heard on a call. This workflow template turns those pieces into one page the procurement lead can act on.

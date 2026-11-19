@@ -4,6 +4,8 @@ Before the business insurance renews, the owner gets one pack: every policy with
 
 *Workflow template · Procurement and suppliers · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/business-insurance-renewal-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/business-insurance-renewal-review/?from=gh-business-insurance-renewal-review)
+
 ## The outcome
 
 The renewal meeting with the broker starts from the facts instead of from a stack of PDFs. The owner sees every policy on one page, with what it costs and when it ends, and every line where the renewal differs from this year: a higher deductible, a new exclusion, a changed limit, a rise in premium, each marked and measured.
